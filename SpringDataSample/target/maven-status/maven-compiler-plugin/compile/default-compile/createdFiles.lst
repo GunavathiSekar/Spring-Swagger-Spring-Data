@@ -1,0 +1,7 @@
+com\Kg\SpringData\Config\WebConfig.class
+com\Kg\SpringData\Model\Student.class
+com\Kg\SpringData\Config\DataConfig.class
+com\Kg\SpringData\Config\SwaggerConfig.class
+com\Kg\SpringData\Controller\StudentController.class
+com\Kg\SpringData\Config\AppInitializer.class
+com\Kg\SpringData\Repository\StudentRepository.class
